@@ -7,48 +7,6 @@ The PDF contains the **main text** and a detailed **appendix** with **additional
 - **Additional Setting Details** — [HERE](https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2Fcali-anon%2FOCR%2Fmain%2Focr_paper.pdf?v=20250815#page=10)
 - **Additional Experiment Results** — [HERE](https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2Fcali-anon%2FOCR%2Fmain%2Focr_paper.pdf?v=20250815#page=10)
 
-**## How to Run the Code
-
-To run the experiments, you need to have Python installed with the required packages. You can install the dependencies using pip:
-
-```bash
-pip install numpy matplotlib pandas scikit-learn tqdm seaborn torch
-```
-
-### Synthetic Experiments
-
-The scripts for the synthetic experiments are located in the `src` directory.
-
-  * To run the experiment with varying training data sizes, execute:
-    ```bash
-    python src/main_train_data.py
-    ```
-  * To run the experiment with varying lambda values, execute:
-    ```bash
-    python src/main_lambda.py
-    ```
-  * To run the experiment with varying numbers of categories, execute:
-    ```bash
-    python src/main_category.py
-    ```
-
-### Real-world Experiments (KuaiSim)
-
-The scripts for the real-world experiments using the KuaiSim simulator are in the `real_kuaisim` directory.
-
-  * To run the main experiment with varying training data sizes, execute:
-    ```bash
-    python real_kuaisim/real_kuaisim5.py
-    ```
-  * To run the experiment evaluating the effect of feedback influence, execute:
-    ```bash
-    python real_kuaisim/real_kuaisim5_val_feedback_influence.py
-    ```
-  * To run the experiment evaluating the effect of the tanh threshold, execute:
-    ```bash
-    python real_kuaisim/real_kuaisim5_val_threshold.py
-    ```**# OCR
-
 ## How to Run the Code
 
 Install dependencies:
