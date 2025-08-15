@@ -4,8 +4,8 @@
 The PDF contains the **main text** and a detailed **appendix** with **additional setting details and additional experiment results**.
 
 - **Main Text (start)** — [HERE](https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2Fcali-anon%2FOCR%2Fmain%2Focr_paper.pdf?v=20250815#page=1)
-- **Additional Setting Details** — [HERE](https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2Fcali-anon%2FOCR%2Fmain%2Focr_paper.pdf?v=20250815#page=10)
-- **Additional Experiment Results** — [HERE](https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2Fcali-anon%2FOCR%2Fmain%2Focr_paper.pdf?v=20250815#page=10)
+- **Appendix A1: Additional Setting Details** — [HERE](https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2Fcali-anon%2FOCR%2Fmain%2Focr_paper.pdf?v=20250815#page=10)
+- **Appendix A2: Additional Experiment Results** — [HERE](https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2Fcali-anon%2FOCR%2Fmain%2Focr_paper.pdf?v=20250815#page=10)
 
 ## How to Run the Code
 
