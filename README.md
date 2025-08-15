@@ -1,12 +1,11 @@
-# Objective-Driven Calibrated Recommendations - Supplementary Meterial
+# Objective-Driven Calibrated Recommendations - Supplementary Material
 
-## Main Text _with Appendix_ (PDF) is [HERE]()
-The PDF contains the **main text** and a detailed **appendix** with **proofs, additional experiments, and limitations**.
+## Main Text _with Appendix_ (PDF) is [HERE](https://github.com/cali-anon/OCR/raw/main/ocr_paper.pdf)
+The PDF contains the **main text** and a detailed **appendix** with **additional setting details and additional experiment results**.
 
-- **Main Text (start)** — [HERE]()
-- **Limitations** — [HERE]()
-- **Proofs** — [HERE]()
-- **Additional Experiments** — [HERE]()
+- **Main Text (start)** — [HERE](https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2Fcali-anon%2FOCR%2Fmain%2Focr_paper.pdf?v=20250815#page=1)
+- **Additional Setting Details** — [HERE](https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2Fcali-anon%2FOCR%2Fmain%2Focr_paper.pdf?v=20250815#page=10)
+- **Additional Experiment Results** — [HERE](https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2Fcali-anon%2FOCR%2Fmain%2Focr_paper.pdf?v=20250815#page=10)
 
 **## How to Run the Code
 
