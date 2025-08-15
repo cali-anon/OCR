@@ -1,4 +1,4 @@
-# Diversification as Risk-Minimization - Supplementary Meterial
+# Objective-Driven Calibrated Recommendations - Supplementary Meterial
 
 ## Main Text _with Appendix_ (PDF) is [HERE]()
 The PDF contains the **main text** and a detailed **appendix** with **proofs, additional experiments, and limitations**.
